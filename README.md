@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! I'm Geunyeong Park! 👋
+---
+I'm a Game Developer from South Korea!
+
+📧 1217pgy@naver.com 📧
+
+### Link
+<img src="https://img.shields.io/badge/Tistory-F36D5D?style=for-the-badge&logo=Tistory&logoColor=white"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+
+### Skills
+<img src="https://skillicons.dev/icons?i=unity,unreal,c,cs,cpp" alt="Tech Stack" /> 
 
 <!--
 **Heondu/Heondu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
