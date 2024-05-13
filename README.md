@@ -2,13 +2,13 @@
 I'm a Game Developer from South Korea!  
 Welcome to My Profile 🎉</br></br>
 
-<a href="https://velog.io/@oka1313">
+<a href="https://1217pgy.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-F36D5D?style=flat&logo=Tistory&logoColor=white">
 </a>
-<a href="https://linkedin.com/geunyeongpark">
+<a href="https://www.linkedin.com/in/geunyeongpark">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white">
 </a>
-<a href="1217pgy@naver.com">
+<a href=mailto:"1217pgy@naver.com">
   <img src="https://img.shields.io/badge/1217pgy@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </a>  
 
